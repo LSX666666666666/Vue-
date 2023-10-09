@@ -1,2 +1,24 @@
-# Vue-
-这是一个测试，我在上传VUE商品管理系统，感兴趣的小伙伴可以下载运行试试
+# shop-admin
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
